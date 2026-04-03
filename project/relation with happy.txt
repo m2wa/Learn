@@ -1,0 +1,5 @@
+Economy (GDP per Capita):  r ≈ 0.78 ⭐
+Family:                    r ≈ 0.74 ⭐
+Health (Life Expectancy):  r ≈ 0.71 ⭐
+Freedom:                   r ≈ 0.55
+Trust (Gov. Corruption):   r ≈ 0.30 (weakest)
